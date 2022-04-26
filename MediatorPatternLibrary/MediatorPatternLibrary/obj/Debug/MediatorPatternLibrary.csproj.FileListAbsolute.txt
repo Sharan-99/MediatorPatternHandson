@@ -1,0 +1,6 @@
+C:\Users\2091199\source\repos\MediatorPatternLibrary\MediatorPatternLibrary\bin\Debug\MediatorPatternLibrary.dll
+C:\Users\2091199\source\repos\MediatorPatternLibrary\MediatorPatternLibrary\bin\Debug\MediatorPatternLibrary.pdb
+C:\Users\2091199\source\repos\MediatorPatternLibrary\MediatorPatternLibrary\obj\Debug\MediatorPatternLibrary.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\MediatorPatternLibrary\MediatorPatternLibrary\obj\Debug\MediatorPatternLibrary.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\MediatorPatternLibrary\MediatorPatternLibrary\obj\Debug\MediatorPatternLibrary.dll
+C:\Users\2091199\source\repos\MediatorPatternLibrary\MediatorPatternLibrary\obj\Debug\MediatorPatternLibrary.pdb

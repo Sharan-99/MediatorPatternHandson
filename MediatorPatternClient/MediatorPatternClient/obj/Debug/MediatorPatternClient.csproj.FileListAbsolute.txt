@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\bin\Debug\MediatorPatternClient.exe.config
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\bin\Debug\MediatorPatternClient.exe
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\bin\Debug\MediatorPatternClient.pdb
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\bin\Debug\MediatorPatternLibrary.dll
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\bin\Debug\MediatorPatternLibrary.pdb
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\obj\Debug\MediatorPatternClient.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\obj\Debug\MediatorPatternClient.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\obj\Debug\MediatorPatternClient.csproj.CopyComplete
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\obj\Debug\MediatorPatternClient.exe
+C:\Users\2091199\source\repos\MediatorPatternClient\MediatorPatternClient\obj\Debug\MediatorPatternClient.pdb
